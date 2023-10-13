@@ -17,7 +17,7 @@ Dentro de la documentación que se puede encontrar se encuentran los siguientes 
 - SQLQuery_Code_Challenge, código SQL, proceso uso de SQL.
 - Ventas Minoristas, archivo CSV utilizado en este proyecto.
 
-Planificación Agile:
+Planificación Agile e Instrucciones:
 
 Se planificaron 6 sprints para este proyecto, según instrucciones del Code Challenge:
 
