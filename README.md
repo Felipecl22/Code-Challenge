@@ -10,7 +10,7 @@ Este proyecto tiene como finalidad postular a las Pasantías GLobant.
 
 Descripción de la estructura de carpetas y archivos en el proyecto.
 
-Dentro de la documentación que se puede encontrar se encuentran los siguientes archivos.
+Dentro de la documentación que se puede encontrar los siguientes archivos.
 
 - Code Challenge, código en Python, proceso ETL.
 - Ingesta de datos, código en Python y jpg, proceso ingesta de datos.
